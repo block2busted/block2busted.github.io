@@ -5,11 +5,11 @@ You can use the [editor on GitHub](https://github.com/block2busted/block2busted.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <table>
-                    <tbody>
-                    <tr>
-                        <td rowSpan="3">
-                            <img className="profile-image" src="olegtolkachev.jpeg" alt="Oleg Tolkachev" title="Oleg Tolkachev"/>
-                        </td>
+  <tbody>
+    <tr>
+      <td rowSpan="3">
+        <img className="profile-image" src="olegtolkachev.jpeg" alt="Oleg Tolkachev" title="Oleg Tolkachev"/>
+      </td>
                         <td>
                             <span>telegram:</span>
                         </td>
